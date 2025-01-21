@@ -103,8 +103,8 @@ This project was inspired by advancements in healthcare analytics and machine le
 ## Contact
 
 - **Name**: Rod Will  
-- **Email**: [your.email@example.com](mailto:rhudwill@gmail.com)  
-- **GitHub**: [Your GitHub Profile](https://github.com/rod-will)  
+- **Email**: [rhudwill@gmail.com]
+- **GitHub**: [https://github.com/rod-will]  
 
 ---
 
