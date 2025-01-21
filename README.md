@@ -2,7 +2,7 @@
 
 This project uses advanced preprocessing techniques and various machine learning models to predict the likelihood of heart disease. It includes data imputation, encoding, scaling, dimensionality reduction with PCA, model optimization, and evaluation using AUC-ROC and confusion matrices.
 
-![Heart health](https://github.com/user-attachments/assets/919283d3-43ba-4ba7-a4ab-0560ef709502)
+![Heart_5](https://github.com/user-attachments/assets/c5c2eab2-62fb-4b89-8f96-fe41bb97a988)
 
 ## Table of Contents
 
@@ -63,9 +63,9 @@ The following models were tested:
 
 ## Results
 
-The best model identified was **[Best Model Name]**, achieving an AUC score of **[Best AUC Score]**. Confusion matrices and AUC-ROC curves for all models are included in the results visualization.
+The best model identified was **Gradient Boosting**, achieving an AUC score of **AUC: 0.9285**. Confusion matrices and AUC-ROC curves for all models are included in the results visualization.
 
-E:\01_Personal Gigs\00_Repository\05_Heart_Disease\output1.png
+![output1](https://github.com/user-attachments/assets/08158bae-5b67-4ca0-8ec3-31808bd6c7dd)
 
 ---
 
